@@ -9,7 +9,7 @@
         }
     ],
    
-    "require": {"hossam20520/comp": "^1.0"},
+    "require": {},
     "autoload":{
         "psr-4":{
             "helloo20520\\":"src/"
