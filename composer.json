@@ -1,5 +1,5 @@
 {
-    "name": "hossam/comp",
+    "name": "hossam20520/comp",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -12,7 +12,7 @@
     "require": {},
     "autoload":{
         "psr-4":{
-            "hello\\":"src/"
+            "helloo20520\\":"src/"
         }
     }
 }
